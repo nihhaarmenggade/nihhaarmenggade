@@ -8,7 +8,7 @@ Web Technologies: HTML5, CSS, Tailwind CSS
 Frameworks & Libraries: React  
 Backend (Learning): Node.js, Express.js  
 Database: MySQL, (Learning) MongoDB  
-Tools: Git, GitHub, VS Code,Claude<br><br>
+Tools: Git, GitHub, VS Code, Claude<br><br>
 
 **What I'm Doing**  
 Enhancing my knowledge of front-end and back-end development  
