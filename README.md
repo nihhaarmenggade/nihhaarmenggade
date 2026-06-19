@@ -43,12 +43,3 @@ Exploring new frameworks and tools in the JavaScript ecosystem<br><br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharvmengade@gmail.com)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=niharmengade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=niharmengade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niharmengade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=niharmengade&icon=9&color=10)](https://visitcount.itsvg.in)
-
